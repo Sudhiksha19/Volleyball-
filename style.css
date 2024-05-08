@@ -1,0 +1,42 @@
+html {
+  height: 100%;
+  width: 100%;
+  background-color: lightgoldenrodyellow;
+}
+a{
+  text-decoration: none;
+  color: indianred;
+  background-color: #4aa4f2;
+  padding: 6px;
+}
+.lib{
+  width: 50%;
+  height: 50%;
+}
+.clu{
+  width:50%;
+  height:50%;
+}
+.satisfy-regular {
+  font-family: "Satisfy", cursive;
+  font-weight: 400;
+  font-style: normal;
+}
+.indie-flower-regular {
+  font-family: "Indie Flower", cursive;
+  font-weight: 400;
+  font-style: normal;
+}
+.sofia-regular {
+  font-family: "Sofia", cursive;
+  font-weight: 400;
+  font-style: normal;
+}
+.headfont {
+  font-family: "Platypi", serif;
+  font-optical-sizing: auto;
+  font-weight: <weight>;
+  font-style: normal;
+}
+
+
